@@ -4,7 +4,7 @@ using UnityEngine;
 
 /// <summary>
 /// -=============================================================-
-/// -===This script is made by Everflame==========================-
+/// -===This script is made by Duncan/Athena======================-
 /// -===Feel free to use this and adjust/tweek stuff==============-
 /// -===But please give credits to me for laying down the base====-
 /// -=======================Thank you=============================-
